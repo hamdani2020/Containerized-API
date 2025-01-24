@@ -32,6 +32,10 @@ A containerized API management system for real-time sports data, leveraging AWS 
   - Docker
   - Python
 
+## Technical Architecture
+
+![Image](https://lucid.app/publicSegments/view/bf95e2f6-b2d5-49b1-a991-2a3925cf3ec8/image.png)
+
 ## Project Structure
 
 ```bash
